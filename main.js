@@ -195,7 +195,8 @@
 //   sum += a[i].length;
  
 // }
-// console.log(sum);
+// let b = sum.toString();
+// console.log(sum); ""
 
 // 35.
 // function replaceAppleWithOrange(str) {

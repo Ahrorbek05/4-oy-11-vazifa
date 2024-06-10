@@ -189,6 +189,13 @@
 
 // 34.
 // Berilgan massivdagi barcha elementlarning uzunliklari yig'indisini hisoblash va bu qiymatni stringga aylantirish uchun `sumArrayElementsLength(arr)` funksiyasini yozing.
+// let sum = 0 ;
+// let a = ['apple','banana','ananas'];
+// for(let i = 0 ; i < a.length ; i++){
+//   sum += a[i].length;
+ 
+// }
+// console.log(sum);
 
 // 35.
 // function replaceAppleWithOrange(str) {

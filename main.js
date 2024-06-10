@@ -210,14 +210,35 @@
 // console.log(searchForDigit("Menda uchta ta olma bor"));
 
 // 37.
-// let arr = ['SALOM, HAYR, APLLE, BOOKS']
-// function lowercaseArrayToString(str) {
-//     // let res = arr.map(arr.toLowerCase());
-//     // console.log(arr.toLowerCase());
-//     let res1 = arr.join('-');
-//     return res1;
-// }
-// console.log(lowercaseArrayToString());
-// Ishlolmadim //
+// let arr = 'UZBEKISTAN';
+//     let a = arr.toLowerCase();
+//     let b = a.split('');
+//     let d = b.join('-');
+//     let c = d.toString();
+
+// console.log(c);
 
 // 38.
+// let str = '      uzbekistan       ';
+// let n = str.trim();
+// let p = n.toUpperCase();
+// let m = p.split('');
+// let s = m.toString();
+// console.log(s);
+
+// 39.
+// let str = '        How old are you?         ';
+// let d = str.trim();
+// let a = d.padStart();
+// let z = a.split(' ');
+// let w = z.toString();
+// console.log(w);
+
+// 40.
+// let str = 'International';
+// let s = str.replace('a', '*');
+// let o = s.repeat(3);
+// let f = o.split();
+// console.log(f);
+
+// 41.
